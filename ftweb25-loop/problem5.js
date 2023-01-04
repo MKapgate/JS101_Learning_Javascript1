@@ -1,0 +1,18 @@
+console.log("ℝ𝔼ℙ𝕆ℝ𝕋 ℂ𝔸ℝ𝔻");
+var s1_Name="Monika";
+var s1_school="aadarsh sanskar";
+var s1_grade="A";
+var s1_section="B";
+var s1_rollno="1";
+var s1_sub1_marks="82";
+var s1_sub2_marks="75";
+var s1_sub3_marks="63";
+console.log("Name :-",s1_Name);
+console.log("School :-" ,s1_school);
+console.log("Grade :-",s1_grade);
+console.log("Section :- ",s1_section);
+console.log("Roll No :-",s1_rollno);
+console.log("Marks Obtained In:-");
+console.log("Subject 1 :-",s1_sub1_marks);
+console.log("Subject 2 :-",s1_sub2_marks);
+console.log("Subject 3 :-",s1_sub3_marks);
